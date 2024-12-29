@@ -16,7 +16,7 @@ const CardSection = () => {
           <span>
             <Link
               to={
-                "https://drive.google.com/file/d/1Up-OT2rr31EqZ81OhVCZ4k1uYUFa06az/view?usp=drive_link"
+                "https://drive.google.com/file/d/1mDNQmZAvG8hpTTToI2hWhUttbe01HBWf/view?usp=drive_link"
               }
               className="text-Primary font-semibold underline px-1"
             >
