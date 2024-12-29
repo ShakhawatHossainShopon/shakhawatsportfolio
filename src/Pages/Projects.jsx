@@ -6,7 +6,7 @@ import { products } from "./components/ProjectData";
 import { Link } from "react-router-dom";
 
 // Categories derived from the product data
-const categories = ["All", "RentYard", "Perceptron", "Freelance", "Others"];
+const categories = ["All", "RentYard", "Perceptron", "Freelance"];
 
 const Projects = () => {
   const [selectedCategory, setSelectedCategory] = useState("All");

@@ -67,7 +67,7 @@ export const products = [
     paragraph:
       "Market Spere is an online marketplace platform designed to connect buyers and sellers in a seamless, secure, and efficient manner. It allows users to browse and list products, interact with sellers, and make secure transactions. With a user-friendly interface and features like product categories, search functionality, and order management,",
     name: "rentyard",
-    category: "Others",
+    category: "Freelance",
     tecnology:
       "Market Spere is built using React, Redux, and Tailwind CSS. React powers the frontend, offering a dynamic and interactive user experience. Redux is used for efficient state management, ensuring smooth data flow across the platform. Tailwind CSS enables rapid, responsive design with customizable components, ensuring a clean and flexible interface. These technologies combine to create a scalable and performant marketplace solution for both buyers and sellers.",
     chalanges:
@@ -155,7 +155,7 @@ export const products = [
     paragraph:
       "Blue Net is a reliable internet service provider offering fast, secure, and stable internet connections for both homes and businesses. With flexible plans and excellent customer support, Blue Net ensures seamless connectivity for browsing, streaming, and online activities.",
     name: "rentyard",
-    category: "Others",
+    category: "Freelance",
     tecnology:
       "Blue Net is built using HTML, CSS, and Tailwind CSS. HTML provides the structure and content of the website, while CSS handles the styling and layout. Tailwind CSS is used for rapid, responsive design, allowing for a clean and customizable user interface. These technologies combine to create a modern, user-friendly, and visually appealing internet service provider website.  ",
     chalanges:
