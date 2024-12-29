@@ -22,7 +22,7 @@ const Resume = () => {
               <div className="mt-8">
                 <Link
                   to={
-                    "https://drive.google.com/file/d/1Up-OT2rr31EqZ81OhVCZ4k1uYUFa06az/view?usp=drive_link"
+                    "https://drive.google.com/file/d/1W8bEviyVnmQSCVBAF0pcjyJ3Xn1GjIjR/view?usp=drive_link"
                   }
                   className="px-4 py-2 text-lg bg-Primary rounded-lg mt-8 hover:bg-green-700"
                 >
