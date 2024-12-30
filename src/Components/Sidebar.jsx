@@ -5,7 +5,7 @@ const Sidebar = ({ toggle, onClick }) => {
     <>
       <div
         className={`col-span-2 bg-third text-gray-200 p-6 text-center h-[180vh] lg:h-full ${
-          toggle ? "absolute z-50  h-full transition-all duration-700" : ""
+          toggle ? "absolute z-50  h-[1200px] transition-all duration-700" : ""
         }
         `}
       >
@@ -14,7 +14,7 @@ const Sidebar = ({ toggle, onClick }) => {
             onClick={onClick}
             className="text-3xl mx-4 mb-4 cursor-pointer lg:hidden block"
           >
-            <i className="fa-solid fa-bars mt-6"></i>
+            <i className="fa-solid fa-close mt-6"></i>
           </span>
         </div>
 

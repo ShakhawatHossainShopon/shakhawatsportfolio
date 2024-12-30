@@ -7,7 +7,7 @@ const ProjectCategory = ({
 
   return (
     <div className="flex justify-center pt-8">
-      <div className="flex gap-8">
+      <div className="flex gap-3 md:gap-8">
         {categories.map((category, index) => (
           <button
             key={index}
