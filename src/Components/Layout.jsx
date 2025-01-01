@@ -13,12 +13,15 @@ const Layout = ({ children }) => {
       </div>
 
       <div className="w-full lg:w-[130%]  bg-Secondary px-8 lg:px-32 text-gray-200 h-full">
-        <span
-          onClick={setToggle}
-          className="text-2xl mx-4 cursor-pointer lg:hidden block"
-        >
-          <i className="fa-solid fa-bars mt-6"></i>
-        </span>
+        <div className="w-full md:border-none border-b border-gray-500 pb-3  fixed bg-Secondary">
+          <span
+            onClick={setToggle}
+            className="text-2xl mx-4 cursor-pointer lg:hidden block"
+          >
+            <i className="fa-solid mt-4 fa-bars"></i>
+          </span>
+        </div>
+
         {children}
       </div>
     </div>
