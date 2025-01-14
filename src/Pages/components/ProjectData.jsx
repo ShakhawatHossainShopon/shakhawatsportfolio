@@ -7,6 +7,7 @@ import meetFlix from "../../assets/projects/MeetFlix.jpg";
 import marketSpere from "../../assets/projects/MarketSpere.jpg";
 import blueNet from "../../assets/projects/BlueNet.jpg";
 import dokanLagbe from "../../assets/projects/dokanLagbe.jpg";
+import fowzi from "../../assets/projects/fowzi.png";
 
 export const products = [
   {
@@ -59,6 +60,23 @@ export const products = [
       "ETC Organic is an efficient inventory management system built using the MERN stack (MongoDB, Express.js, React, Node.js). It streamlines the management of organic store inventory, allowing businesses to track stock levels, manage product details, and optimize transactions. The system’s user-friendly interface and robust backend ensure smooth, real-time updates and scalability. Despite challenges in integrating technologies, optimizing database performance, and deploying to a cloud environment, ETC Organic successfully provides a reliable and scalable solution for organic stores.",
     LiveLink: "https://etc-erp-client.onrender.com",
     github: "https://github.com/ShakhawatHossainShopon/Etc-Organic",
+  },
+  {
+    id: 435,
+    image: fowzi,
+    title: "Fowzi Media",
+    paragraph:
+      "Fowzi Media is a digital marketing and content creation agency that specializes in helping brands build their online presence through strategic content marketing, social media management, and innovative digital advertising. The agency caters to businesses of various sizes, providing services that include video production, social media campaigns, influencer marketing, search engine optimization (SEO), and digital advertising.",
+    name: "rentyard",
+    category: "Perceptron",
+    tecnology:
+      "ETC Organic leverages the MERN stack, which includes MongoDB, Express.js, React, and Node.js. MongoDB serves as the database for storing product and inventory data, while Express.js and Node.js power the backend, handling API requests and server-side logic. React is used for building a dynamic and responsive frontend, offering a seamless user experience. This stack ensures scalability, performance, and real-time updates, making ETC Organic an efficient and reliable inventory management solution for organic stores.",
+    chalanges:
+      "React.js was used for building the user interface, providing a component-based architecture and efficient rendering. It enabled a dynamic and responsive single-page application, utilizing React Hooks and the Context API for state management. Tailwind CSS was employed for styling, allowing rapid and responsive design using utility-first classes. It simplified the process of creating custom and scalable UIs without writing custom CSS. JavaScript (ES6+) was utilized for clean, modern code, leveraging features like arrow functions, async/await, and destructuring for better readability and performance. Node.js powered the development server, facilitating the integration of build tools and ensuring an efficient development environment. GitHub was used for version control, enabling collaboration and smooth code management.",
+    summary:
+      "The project was built using React.js for a dynamic, component-based UI, with Tailwind CSS for fast, responsive styling. JavaScript (ES6+) was used for clean and efficient code, while Node.js powered the development environment. GitHub was employed for version control and collaboration.",
+    LiveLink: "https://fowzi-media-tau.vercel.app/",
+    github: "https://github.com/ShakhawatHossainShopon/Fowzi-Media",
   },
   {
     id: 8,

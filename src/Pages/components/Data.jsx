@@ -14,6 +14,7 @@ import reactQuery from "../../assets/react-query-logo-png_seeklogo-435661-remove
 import photoshop from "../../assets/photshop-removebg-preview.png";
 import xd from "../../assets/Adobe_XD_CC_icon.svg.png";
 import figma from "../../assets/figma.png";
+import sass from "../../assets/sass.png";
 export const cardData = [
   {
     img: [
@@ -62,6 +63,9 @@ export const cardData = [
       },
       {
         image: bootstarp,
+      },
+      {
+        image: sass,
       },
     ],
     heading: "Tailwidn, MUI, Bootstrap",
