@@ -13,10 +13,10 @@ const AboutMe = () => {
                 Shakhawat Hossain
               </h1>
               <h3 className="md:text-xl text-xl mb-4">
-                Frontend Developer & UI/UX Designer
+                Web Developer & UI/UX Designer
               </h3>
               <p className="md:text-base text-sm">
-                Passionate Frontend developer adept at crafting robust digital
+                Passionate Web developer adept at crafting robust digital
                 solutions. Enthusiastic about pushing boundaries and creating
                 engaging user experiences.Want to know how I may help your
                 project? Check out my{" "}
@@ -38,14 +38,14 @@ const AboutMe = () => {
               </p>
               <div className="flex gap-5 my-8">
                 <Link to={"/projects"}>
-                  <button className="md:py-2 md:px-4 px-3 py-2 text-xs md:text-base duration-300 bg-Primary cursor-pointer rounded-md hover:bg-green-600 duration-500 font-semibold">
+                  <button className="md:py-2 md:px-4 px-3 py-2 text-xs md:text-base  bg-Primary cursor-pointer rounded-md hover:bg-green-600 duration-500 font-semibold">
                     <i className="fa-solid fa-diagram-project pe-1 hover:bg-green-600 duration-500"></i>{" "}
                     View Portfolio
                   </button>
                 </Link>
                 <Link
                   to={
-                    "https://drive.google.com/file/d/1C8uQ4t7MmrGcgk-KPlreomz6RAUUWCyX/view?usp=drive_link"
+                    "https://drive.google.com/file/d/1U9FYxkorEg9gc2d6fm4Kp42c2Z8pfbLJ/view?usp=sharing"
                   }
                 >
                   <button className="md:py-2 md:px-4 px-3 py-2  text-xs md:text-base bg-Primary cursor-pointer rounded-md hover:bg-green-600 duration-500 font-semibold">
