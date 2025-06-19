@@ -29,7 +29,7 @@ const AboutMe = () => {
                 and{" "}
                 <Link
                   to={
-                    "https://drive.google.com/file/d/1C8uQ4t7MmrGcgk-KPlreomz6RAUUWCyX/view?usp=drive_link"
+                    "https://drive.google.com/file/d/1nhC0cvZXrnCUh3flNfwcVQpyS2gqkVHO/view?usp=sharing"
                   }
                   className="text-Primary font-semibold underline px-1"
                 >
@@ -45,7 +45,7 @@ const AboutMe = () => {
                 </Link>
                 <Link
                   to={
-                    "https://drive.google.com/file/d/1U9FYxkorEg9gc2d6fm4Kp42c2Z8pfbLJ/view?usp=sharing"
+                    "https://drive.google.com/file/d/1nhC0cvZXrnCUh3flNfwcVQpyS2gqkVHO/view?usp=sharing"
                   }
                 >
                   <button className="md:py-2 md:px-4 px-3 py-2  text-xs md:text-base bg-Primary cursor-pointer rounded-md hover:bg-green-600 duration-500 font-semibold">
